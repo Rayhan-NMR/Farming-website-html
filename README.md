@@ -9,7 +9,7 @@ A simple agriculture-themed website created as a practice project while learning
 
 ## Technologies Used
 - HTML
-- CSS
+- Java
 
 ## Purpose
 This project was created as part of my learning journey in web development.
