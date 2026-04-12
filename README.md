@@ -1,18 +1,24 @@
 # Farming Website
 
-A simple agriculture-themed website created as a practice project while learning HTML.
+## 📌 Description
+A simple agriculture-themed website created to practice basic web development skills using HTML.
 
-## Features
-- Basic webpage layout
-- Information about farming
-- Simple navigation
+## ⚙️ Features
+- Structured webpage layout  
+- Basic navigation between sections  
+- Informational content about agriculture  
 
-## Technologies Used
-- HTML
-- Java
+## 🛠 Technologies Used
+- HTML  
+- CSS (if used)  
 
-## Purpose
-This project was created as part of my learning journey in web development.
+## 🎯 Purpose
+This project was built as part of my learning journey in web development, focusing on understanding website structure and layout design.
 
-## Author
-Rayhan
+## 🚀 Learning Outcome
+- Improved understanding of HTML structure  
+- Practiced organizing content into a simple website  
+- Gained experience in building basic web pages  
+
+## 👤 Author
+Rayhan Nazzaz Ma'rif
